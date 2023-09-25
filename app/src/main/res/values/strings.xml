@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Haven Companion</string>
+    <string name="bless_icon">drawable/fh_bless_color_icon.png</string>
+    <string name="app_version">1.0.0</string>
+</resources>
