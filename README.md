@@ -6,15 +6,15 @@ Welcome to the ultimate tool designed to streamline and enhance your Frosthaven/
 
 ### 1️⃣ Initiative Tracker
    - 🖊️ **Manual Input**: Easily input the name and initiative of characters.
-   - 🎤 **Voice Commands**: Update the initiative order on-the-go.
-   - 🔖 **Preset Order**: Use a predetermined order for quick setup.
+   - 🎤 **Voice Commands**: Update the initiative order via voice commands.
+   - 🔖 **Preset Order**: Use a predetermined order for every characters initiative.
 
 ### 2️⃣ Enhancement Cost Calculator
    - 🧮 Easily determine the enhancement costs by following the game's rules.
 
 ## 🛑 Important: Assets
 
-**Due to copyright restrictions, we do not provide drawable assets for characters.** You'll need to supply your own. The application is designed for easy integration with your custom assets.
+**Due to copyright restrictions, I do not provide drawable assets for characters.** You'll need to supply your own.
 
 ## 📝 Usage
 
@@ -27,6 +27,6 @@ Welcome to the ultimate tool designed to streamline and enhance your Frosthaven/
 ### 3️⃣ Enhancement Cost Calculator
 - Enter the required details to get the calculated enhancement cost.
 
-## 🙏 Thanks
+## 🙏
 
-Thank you for choosing our tool. Enjoy your game and may your adventures be legendary!
+Enjoy your game and may your adventures be legendary!
