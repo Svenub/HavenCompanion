@@ -9,12 +9,12 @@ Welcome to the ultimate tool designed to streamline and enhance your Frosthaven/
    - 🎤 **Voice Commands**: Update the initiative order via voice commands.
    - 🔖 **Preset Order**: Use a predetermined order for every characters initiative.
 
-     ![Description of Image](readme_pictures/Initiative_screen.png)
+![Description of Image](readme_pictures/Initiative_screen.jpg)
 
 ### 2️⃣ Enhancement Cost Calculator
    - 🧮 Easily determine the enhancement costs by following the game's rules.
 
-      ![Description of Image](readme_pictures/Enhancement_screen.png)
+![Description of Image](readme_pictures/Enhancement_screen.jpg)
 
 ## 🛑 Important: Assets
 
