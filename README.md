@@ -9,7 +9,7 @@ Welcome to the ultimate tool designed to streamline and enhance your Frosthaven/
    - 🎤 **Voice Commands**: Update the initiative order via voice commands.
    - 🔖 **Preset Order**: Use a predetermined order for every characters initiative.
 
-<img src="readme_pictures/Initiative_screen.jpg" alt="Initiative screen" width="200" height="150" />
+<img src="readme_pictures/Initiative_screen.jpg" alt="Initiative screen" width="200" height="600" />
 
 ![Description of Image](readme_pictures/Initiative_screen.jpg)
 
