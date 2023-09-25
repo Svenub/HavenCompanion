@@ -11,12 +11,11 @@ Welcome to the ultimate tool designed to streamline and enhance your Frosthaven/
 
 <img src="readme_pictures/Initiative_screen.jpg" alt="Initiative screen" width="200" />
 
-![Description of Image](readme_pictures/Initiative_screen.jpg)
 
 ### 2️⃣ Enhancement Cost Calculator
    - 🧮 Easily determine the enhancement costs by following the game's rules.
 
-![Description of Image](readme_pictures/Enhancement_screen.jpg)
+<img src="readme_pictures/readme_pictures/Enhancement_screen.jpg" alt="Enhancement screen" width="200" />
 
 ## 🛑 Important: Assets
 
